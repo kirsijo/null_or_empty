@@ -2,7 +2,6 @@
 
 [![Node CI](https://github.com/kirsijo/null_or_empty/actions/workflows/main.yml/badge.svg)](https://github.com/kirsijo/null_or_empty/actions/workflows/main.yml)
 
-[![Node CI](https://github.com/kirsijo/null_or_empty/actions/workflows/main.yml/badge.svg?event=gollum)](https://github.com/kirsijo/null_or_empty/actions/workflows/main.yml)
 
 A Node.js package that checks, if a given string is null or empty.
 
